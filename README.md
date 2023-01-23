@@ -1,7 +1,7 @@
-#Hi, i'm Anton 👋
-##Android developer from Russia
-###I work in technology stack: Java, Kotlin, SQLite
-###Contact with me 
+# Hi, i'm Anton 👋
+## Android developer from Russia
+### I work in technology stack: Java, Kotlin, SQLite
+### Contact with me 
 - ienndevld@yandex.ru
 - t.me/PseudoNIMB
 
