@@ -3,7 +3,7 @@
 ### I work in technology stack: Java, Kotlin, SQLite
 ### Contact with me 
 - ienndevld@yandex.ru
-- [Telegram](t.me/PseudoNIMB)
+- [Telegram](https://t.me/PseudoNIMB)
 
 <!--
 **PseudoNIMB/PseudoNIMB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
