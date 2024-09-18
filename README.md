@@ -1,6 +1,6 @@
 # Hi, i'm Anton 👋
 ## Android developer from Russia
-### I work in technology stack: Java, Kotlin, SQLite
+### I work in technology stack: Jetpack Compose, Kotlin, Java, SQLite, Postgresql, Spring JPA, Hibernate
 ### Contact with me 
 - ienndevld@yandex.ru
 - [Telegram](https://t.me/PseudoNIMB)
