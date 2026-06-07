@@ -3,7 +3,6 @@
 ### I work in technology stack: Jetpack Compose, Kotlin, Java, SQLite, Postgresql, Spring JPA, Hibernate
 ### Contact with me 
 - ienndevld@yandex.ru
-- [Telegram](https://t.me/PseudoNIMB)
 
 <!--
 **PseudoNIMB/PseudoNIMB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
