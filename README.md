@@ -1,20 +1,27 @@
-# Hi, i'm Anton 👋
-## Android developer from Russia
-### I work in technology stack: Jetpack Compose, Kotlin, Java, SQLite, Postgresql, Spring JPA, Hibernate
-### Contact with me 
-- ienndevld@yandex.ru
+### Hi, I'm Anton 👋
+Senior Android & Kotlin Multiplatform (KMP) Developer from Russia
 
-<!--
-**PseudoNIMB/PseudoNIMB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Technology Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Mobile & Crossplatform -->
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+
+<!-- Streaming, Network & Backend -->
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+
+<!-- Databases & Architecture -->
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+
+* **Mobile & Desktop:** Android SDK, Kotlin Multiplatform (KMP), Compose Multiplatform, Core View components, AOSP.
+* **Architecture & DI:** Clean Architecture, MVVM, MVP, Dagger 2.
+* **Network & Protocols:** WebRTC (real-time streaming), Retrofit, REST API, Protocol Buffers, TCP/IP sockets, Bluetooth, Wi-Fi, OTG.
+* **Backend & DB:** Spring Boot (JPA, Hibernate), Apache, PHP, PostgreSQL, MySQL, SQLite, Firebase.
+
+---
+
+### 📫 Contact with me
+
+* 📧 Email: ienndevld@yandex.ru
+* 💬 Telegram: @PseudoNIMB
